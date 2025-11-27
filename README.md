@@ -1,5 +1,7 @@
 # prompt.sh
 
+![](prompt.jpg)
+
 A pure Bash script for executing `.prompt` template files against LLM APIs. Inspired by [runprompt](https://github.com/chr15m/runprompt) and the [dotprompt](https://github.com/google/dotprompt) format.
 
 ## Features
