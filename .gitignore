@@ -1,0 +1,6 @@
+.env
+/PRPs/
+/log/
+/tmp/
+/vendor/
+/.idea/
